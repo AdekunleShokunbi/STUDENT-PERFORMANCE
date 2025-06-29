@@ -1,7 +1,7 @@
-## STUDENT-PERFORMANCE
+# STUDENT-PERFORMANCE
 This is an analysis of a set of student performance in a test. The test put into consideration reading, writing and mathematics of each student. Data about each child's educational background and level was also considered.
 
-# KEY QUESTIONS FROM THE MANAGEMENT
+## KEY QUESTIONS FROM THE MANAGEMENT
 1. How many students in total were enrolled
 2. How many female and Male were enrolled
 3. What is the average maths score of the student
@@ -18,7 +18,7 @@ This is an analysis of a set of student performance in a test. The test put into
 13. Who are the top 5 student
 14. Create slicers for parental education
 
-# KEY INSIGHTS FROM THE DATASET
+## KEY INSIGHTS FROM THE DATASET
 1. Female students performed better than male students. 
 2. Out of the 5 top students, 4 are females while 1 is a male.
 3. Lunch type affects students performance; standard lunch positively affects student performance while reduced lunch negatively affects student performance.
@@ -27,7 +27,7 @@ This is an analysis of a set of student performance in a test. The test put into
 6. Group E student are the best performed students.
 7. Student who did not complete their preparatory course performed better than student who did
 
-# RECOOMMENDATION
+## RECOMMENDATION
 1. Extra Lessons should be organised for male students
 2. Standard lunch should be served to all student in other to achieve a better test performance. 
 3. Top performing student should be recognised and rewarded to encourage other student
