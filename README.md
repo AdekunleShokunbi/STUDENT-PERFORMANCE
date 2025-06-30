@@ -37,4 +37,4 @@ The data was not messy. I only did a little data cleaning on it. I added some ex
 4. There should be revision of preperatory courses being used or other approaches that aligns to student learning style should be explored.
 
 5. ## P.S:
-6. *I have also attached the file here
+6. I have also attached the Excel file here
