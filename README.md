@@ -36,4 +36,5 @@ The data was not messy. I only did a little data cleaning on it. I added some ex
 3. Top performing student should be recognised and rewarded to encourage other student
 4. There should be revision of preperatory courses being used or other approaches that aligns to student learning style should be explored.
 
-5. ## P.S: **I have also attached the file here
+5. ## P.S:
+6. **I have also attached the file here
